@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "FOIxwII5mTMtXVpgLRXRfSpvRCfAahpSMkrkv2onDGDzQ0dbcN798Nlcj1acEks12oWd1EW+pMSCpBv+67oYAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\husnus\\Downloads\\clearbank_developer_test\\PuzzleIT.Payment.Library\\ClearBank.DeveloperTest\\ClearBank.DeveloperTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\husnus\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\husnus\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\husnus\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\husnus\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\husnus\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\husnus\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\husnus\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\husnus\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\husnus\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
